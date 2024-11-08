@@ -45,6 +45,9 @@ html{
     color: black;
     background: white;
 }
+.navbar-light .navbar-brand {
+    background-color: rgb(40, 101, 55);
+}
 .header{
     flex: 0 1 auto;
     margin-bottom: 100px;
@@ -68,6 +71,7 @@ html{
     color: white;
     text-align: center; 
     margin: 10px 5% 10px 5%;
+    height: 40px;
     background-color: rgb(40, 101, 55);
 }
 
